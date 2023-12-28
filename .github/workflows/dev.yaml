@@ -1,6 +1,6 @@
 ---
 
-name: "Infra setup for Development"
+name: "Infra for Development"
 
 on:
   push:
